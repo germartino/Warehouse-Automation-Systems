@@ -13,7 +13,7 @@ The architecture designed and developed can be divided four main wireless networ
 * Warehouse Server
 
 <p align="center">
-    <img src="resources/architecture.png" width=200/>
+    <img src="resources/architecture.png" width=500/>
 </p>
 
 The automation begins with the conveyor belt, the package is transported until it reaches the pick-up point, then the conveyor publish a message to the robotic arm. 
@@ -69,6 +69,6 @@ List of Components:
 
 ### Prerequisites
 
-1. [Raspberry Pi Board] (https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/)
+1. [Raspberry Pi Board](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/)
  
-    1.1 [Raspberry Pi OS] (https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system)
+    1.1 [Raspberry Pi OS](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system)
