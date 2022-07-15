@@ -67,8 +67,5 @@ List of Components:
 - Raspberry Pi Case and Power Supply
 - USB Keyboard and Mouse (Optional)
 
-### Prerequisites
-
-1. [Raspberry Pi Board](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/)
  
-    1.1 [Raspberry Pi OS](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system)
+    
